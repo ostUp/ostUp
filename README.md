@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [My website](https://ostup.github.io/blystsiv/)
-- 😄 Pronouns: ... He/Him
 -->
