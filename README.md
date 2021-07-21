@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on ... JavaScript
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My website](ostup.github.io/blystsiv/)
+- 📫 How to reach me: ... [My website](https://ostup.github.io/blystsiv/)
 - 😄 Pronouns: ... He/Him
 -->
