@@ -1,4 +1,4 @@
-### Ostap Blystiv (@ostUp)👋
+### <h1>Ostap Blystiv (@ostUp)👋</h1>
 
 - 🔭 I’m currently working on ... Freelancehunt
 - 🌱 I’m currently learning ... JavaScript
