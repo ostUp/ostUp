@@ -1,6 +1,6 @@
 ### <h1>Ostap Blystiv (@ostUp)👋</h1>
 
-- 💻 Core Stack: ReactJS, NodeJS
+- 💻 Core Stack: ReactJS
 - 🔭 I’m currently working on Freelancehunt
 - 🌱 I’m currently learning JavaScript
 - 🔥 Interested in Product Management, Marketing & UI/UX Design
